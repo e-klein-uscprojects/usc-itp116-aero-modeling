@@ -8,3 +8,4 @@ Highlights:
 - Overall efficiency gain: ~5–7% across all routes
 
 These results confirm the optimizer logic is functioning and ready for refinement.
+![Flight Duration Comparison](../results/flight_duration_comparison.png)
