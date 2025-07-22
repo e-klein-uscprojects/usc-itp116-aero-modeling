@@ -1,7 +1,10 @@
 ## Results Summary
 
-Model successfully predicted optimized flight durations.
+The flight optimization model successfully processed the sample dataset and adjusted route durations.
 
-- Route A1 reduced from 95 to 92.4 minutes
-- Average efficiency gain: ~6%
-- High correlation between wind speed and duration improvement
+Highlights:
+- Route A1: reduced from 95 to approx. 92.4 minutes
+- Route D4: adjusted duration based on traffic and wind
+- Overall efficiency gain: ~5–7% across all routes
+
+These results confirm the optimizer logic is functioning and ready for refinement.
